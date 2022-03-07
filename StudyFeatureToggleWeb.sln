@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiToggle", "WebApiToggle\WebApiToggle.csproj", "{29DBF9C5-9240-45C9-B2CE-E36A1FA9702D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29DBF9C5-9240-45C9-B2CE-E36A1FA9702D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DBF9C5-9240-45C9-B2CE-E36A1FA9702D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DBF9C5-9240-45C9-B2CE-E36A1FA9702D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DBF9C5-9240-45C9-B2CE-E36A1FA9702D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C98A12D-D8F6-483F-8386-6F190880D732}
+	EndGlobalSection
+EndGlobal
